@@ -1,5 +1,5 @@
 function Home(){
-   return <h1>Teste de ammend 2 novo</h1>
+   return <h1>Teste</h1>
 
   
 }
