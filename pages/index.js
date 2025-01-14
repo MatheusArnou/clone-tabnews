@@ -1,5 +1,4 @@
 function Home() {
-  return <h1>Novo teste de deploy 😎</h1>;
-  return <h2>Teste de site no ar😎</h2>;
+  return <h1>Teste de site no ar😎</h1>;
 }
 export default Home;
